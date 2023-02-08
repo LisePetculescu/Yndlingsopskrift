@@ -21,6 +21,10 @@ header {
 #pic {
   background-color: #f3f3f3;
 }
+img {
+  width: 100%;
+  height: auto;
+}
 #ing {
   background-color: #c3195d;
   padding: 10px;
